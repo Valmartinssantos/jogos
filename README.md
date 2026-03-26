@@ -224,8 +224,3 @@ curl http://127.0.0.1:5000/jogos/999
 
 ---
 
-## Sugestão de envio
-
-1. Criar um repositório no GitHub.
-2. Enviar os arquivos do projeto.
-3. Confirmar que o `README.md` contém as instruções de execução e testes.
